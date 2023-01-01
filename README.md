@@ -1,2 +1,2 @@
 # EasyMed
-Faster Medicine Faster Recovery
+Faster Service Faster Recovery
